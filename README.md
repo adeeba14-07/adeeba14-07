@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Adeeba Tasneem
 
-<!--
-**adeeba14-07/adeeba14-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student at SWCET (JNTU Hyderabad), building ML, RAG/LLM, and full-stack projects.
 
-Here are some ideas to get you started:
+**Projects**
+- [PhishGuard AI](https://github.com/adeeba14-07/PhishGuard-AI) — ML-based phishing detection
+- [Provenance RAG](https://github.com/adeeba14-07/provenance-rag) — Trustworthy document analysis
+- [TalenTrade](https://github.com/areeb07-star/TalenTrade--Skill-Exchange-Platform) — Skill exchange platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech**
+Python • Flask • Scikit-learn • RAG • LLMs • AI • ML • GitHub
+
+**📫 Connect**
+[LinkedIn](https://linkedin.com/in/adeeba-tasneem) 
