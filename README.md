@@ -11,4 +11,4 @@ B.Tech CSE student at SWCET (JNTU Hyderabad), building ML, RAG/LLM, and full-sta
 Python • Flask • Scikit-learn • RAG • LLMs • AI • ML • GitHub
 
 **📫 Connect**
-[LinkedIn](www.linkedin.com/in/adeeba-tasneem24011) 
+[LinkedIn](https://www.linkedin.com/in/adeeba-tasneem24011)
